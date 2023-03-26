@@ -237,25 +237,3 @@ h1 {
 
 
 
-
-/*Test*/
-.content-container {
-  border: 1px black solid;
-}
-
-.landing-text {
-  border: 1px black solid;
-}
-
-.rating-container {
-  border: 1px blue solid;
-}
-
-.testimony {
-  border: 1px grey solid;
-}
-
-.user-info {
-  border: 1px white solid;
-}
-
